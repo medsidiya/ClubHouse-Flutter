@@ -1,0 +1,4 @@
+#Sun Apr 28 22:12:23 BST 2024
+base.0=F\:\\flutter_pro\\clubhouse_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

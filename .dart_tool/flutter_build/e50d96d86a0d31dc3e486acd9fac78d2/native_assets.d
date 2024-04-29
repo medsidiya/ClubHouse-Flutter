@@ -1,0 +1,1 @@
+ F:\\flutter_pro\\clubhouse_ui\\.dart_tool\\flutter_build\\e50d96d86a0d31dc3e486acd9fac78d2\\native_assets.yaml: 
