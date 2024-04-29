@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         iconTheme:const IconThemeData(color: Colors.black),
         fontFamily: GoogleFonts.montserrat().fontFamily,
         textTheme: GoogleFonts.montserratTextTheme(),
-
+// comment
     ),
     home: const HomeScreen(),
     );
