@@ -178,7 +178,9 @@ class RoomScreen extends StatelessWidget {
                   color: Colors.red,
                   fontSize: 16,
                   fontWeight: FontWeight.w500,
+                  letterSpacing: 1.0,
                 ),
+
               ),
               style: TextButton.styleFrom(
                   padding: const EdgeInsets.all(12),
